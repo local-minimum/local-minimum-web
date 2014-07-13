@@ -1,39 +1,52 @@
 {{ template "partials/header.html" . }}
-{{ template "partials/subheader.html" . }}
 {{ $baseurl := .Site.BaseUrl }}
 
+<div id='side-menu'>
+<nav>
+<span id="name">Local Minimum</span>
+<span id='nav-icons'>
+	<a href="{{.Site.BaseUrl}}"><img src="img/m_ico_home.png"></a>
+	<a href="games"><img src="img/m_ico_games.png"></a>
+	<a href="about"><img src="img/m_ico_about.png"></a>
+	<a href="http://www.unknownincubator.com"><img src="img/m_ico_ui.png"></a>
+</span>
+</nav>
+</div>
+
 <section id="main">
-  <h1 id="title"><span class='section-name'>{{ upper .Section }}:</span>{{ .Title }}</h1>
+  <h1 id="title">{{if .Section}}<span class='section-name'>{{ upper .Section }}</span>{{ end }}{{ .Title }}</h1>
   <div>
         <article id="content">
 			<section>
-			<h4 id="date"> {{ .Date.Format "Mon Jan 2, 2006" }} </h4>
+			<h4 class="date"> {{ .Date.Format "Mon Jan 2, 2006" }} </h4>
 			</section>
 			{{if isset .Params "series" }}
-			<section>
-			<h4 class="list-header">Part of series</h4>
-			<ul id="series">
+			<section id="series">
+			<h4 class="taxon-header">Part of series</h4>
+			<ul class='taxon'>
 				{{ range .Params.series}}
-					<li> <a href="{{ $baseurl }}/series/{{ . | urlize }}">{{ . }}</a> </li>
+				<li> {{ title . }} </li>
 				{{ end }}
 			</ul>
 			</section>
 			{{ end }}
+			<section id='text'>
             {{ .Content }}
+			</section>
 			<section id="technical">
 			{{if isset .Params "languages" }}
-			<h4 class="list-header">Languages</h4>
-			<ul id="langages">
+			<h4 class="taxon-header">Languages</h4>
+			<ul class='taxon'>
 				{{ range .Params.languages }}
-					<li> <a href="{{ $baseurl }}/languages/{{ . | urlize }}">{{ title . }}</a> </li>
+					<li> {{ title . }} </li>
 				{{ end }}
 			</ul>
 			{{ end }}
 			{{if isset .Params "tools" }}
-			<h4 class="list-header">Tools</h4>
-			<ul id="tools">
+			<h4 class="taxon-header">Tools</h4>
+			<ul class='taxon'>
 				{{ range .Params.tools}}
-					<li> <a href="{{ $baseurl }}/tools/{{ . | urlize }}">{{ title . }}</a> </li>
+					<li> {{ title . }} </li>
 				{{ end }}
 			</ul>
 			{{ end }}
@@ -45,9 +58,16 @@
 {{if isset .Params "project_url" }}
 <div id="ribbon">
 	{{ if isset .Params "stage" }}
-	<span id="dev-stage">{{.Params.stage}}</span>
+	<span class="dev-stage">{{.Params.stage}}</span>
 	{{ end }}
-    <a href="{{ index .Params "project_url" }}" rel="me">{{ index .Params "project_url" }}</a>
+	{{ range $index, $value := .Params.project_url}}
+		{{ $odd := mod $index 2}}
+		{{if $odd }}
+			{{ $value }}</a></span>
+		{{ else }}
+			<span class="link"><a href="{{ $value }}" rel="me">
+		{{ end }}
+	{{ end }}
 </div>
 {{ end }}
 
