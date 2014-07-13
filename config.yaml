@@ -1,4 +1,10 @@
-baseurl = "http://www.unknownincubator.com/local_minimum"
-languageCode = "en-us"
-title = "Local Minimum"
-
+---
+baseurl: "http://www.unknownincubator.com/local_minimum/"
+languageCode: "en-us"
+title: "Local Minimum"
+canonifyurls: true
+indexes:
+    series: "series"
+    language: "languages"
+    tools: "tools"
+---
