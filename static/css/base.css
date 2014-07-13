@@ -1,0 +1,178 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+body {
+	color: #FFC48C;
+	background-color: #36393B;
+}
+
+a {
+	text-decoration: none;
+	color: #F56991;
+}
+
+#banner-menu {
+	top: 0px;
+	left: 0px;
+	padding: 10px;
+	background-color: #EEE6AB;
+	width: 100%
+}
+
+#side-menu {
+	position: absolute;
+	display: flex;
+	left: -100%;
+	top: 0px;
+	min-width: 100%;
+	height: 50px;
+	padding: 5px;
+	background-color: #EEE6AB;
+	transform:rotate(270deg);
+	-ms-transform:rotate(270deg); /* IE 9 */
+	-webkit-transform:rotate(270deg); /* Opera, Chrome, and Safari */
+	transform-origin:100% 0%;
+	-ms-transform-origin:100% 0%;
+	-webkit-transform-origin:100% 0%;
+	justify-content:flex-end;
+}
+
+#side-menu nav {
+	display: inline-block;
+}
+
+#name {
+	margin-left: 20px;
+	margin-right: 10px;
+	font-size: 200%;
+	font-family: "Courier New", monospace;
+	font-weight: bold;
+}
+
+#side-menu img {
+	margin-left: 10px;
+}
+
+h1 {
+	margin-top: 20px;
+	color: #EFFAB4;
+	font-family: Verdana, sans-serif;
+}
+
+h2 {
+	margin-top: 20px;
+	color: #EFFAB4;
+	font-family: Verdana, sans-serif;
+	font-size: 110%;
+}
+
+h4 {
+	color: #FF9F80;
+	font-family: Verdana, sans-serif;
+	margin-top: 10px;
+
+}
+
+ul {
+	margin-left:30px;
+	margin-top: 10px;
+}
+
+li {
+	margin-bottom: 10px;
+}
+
+p {
+	margin-bottom: 5px;
+}
+
+#main {
+	padding: 10px;
+	padding-left: 90px;
+	display: inline-block;
+	max-width: 640px;
+}
+
+#title {
+	letter-spacing: 3px;
+}
+
+#content {
+	padding: 10px;
+}
+
+#technical {
+	font-size: 60%;
+	margin-top: 10px;
+	margin-left: 10px;
+	background-color: #45484B;
+	padding: 5px;
+}
+
+#text {
+	margin-top: 10px;
+	text-align: justify;
+}
+
+.taxon {
+	color: #F56991;
+	font-family: "Courier New", monospace;
+	font-weight: bold;
+}
+
+#ribbon {
+	width: 100%;
+	padding: 50px;
+	padding-left: 200px;
+	background: #C5BC8E;
+}
+
+#ribbon .dev-stage {
+	display: block;
+}
+
+#ribbon .link {
+	margin-right: 20px;
+}
+
+.dev-stage {
+	color: #696758;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 75%;
+}
+
+.taxon ul {
+	
+	display: inline-block;
+	list-style-type: none;
+}
+
+.taxon li {
+	margin-left: 10px;	
+	display: inline-block;
+}
+
+.date {
+	font-style: italic;
+	font-weight: normal;
+}
+
+.section-name {
+	color: #D1F2A5;
+	font-size: 50%;
+	margin-right: 10px;
+	font-weight: bold;
+	text-decoration: underline;
+
+}
+
+.game-about {
+	color: #FFC48C;
+	margin-top: 10px;
+	text-align: justify;
+	padding-top: 20px;
+}
