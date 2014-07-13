@@ -1,11 +1,13 @@
 +++
 draft = true
 title = "Gnus and Zeppelins"
-date = 2014-07-13T11:37:19Z
+date = 2011
 languages = ["python"]
-tools = ["inkscape"]
+tools = ["inkscape", "GIMP"]
 series = ["Scientifically Fun"]
-project_url = "http://gitorious.org/gnus-and-zeppelins"
+project_url = [
+"http://gitorious.org/gnus-and-zeppelins", "Source"
+]
 stage = "Prototype"
 +++
 
