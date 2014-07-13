@@ -2,14 +2,3 @@ baseurl = "http://www.unknownincubator.com/local_minimum"
 languageCode = "en-us"
 title = "Local Minimum"
 
-[indexes]
-	language = "Languages"
-	tool = "Tools"
-	series = "Series"
-	project_url = "Links"
-	stage = "Development Stages"
-
-[[menu.main]]
-	name="Who am I?"
-	identifier="about"
-
