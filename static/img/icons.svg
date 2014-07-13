@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="202.51324"
+     inkscape:cy="977.64199"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:window-width="1022"
+     inkscape:window-height="569"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2990" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#effab4;stroke-width:8;stroke-opacity:1;opacity:0.8"
+       d="m 151.42857,88.076469 c 0,10.380294 -4.81355,19.126321 -12.33027,25.147711 -2.39097,0.90858 -2.39707,1.62985 -7.04438,1.55772 -1.9964,-0.031 -0.79199,-17.194533 -1.0242,-23.496191 2.09776,-0.330716 5.44935,-1.131322 7.9084,-1.298809 -3.05524,-2.513181 -18.99342,-19.168743 -20.61581,-20.10639 -1.36851,0.874796 -18.765551,18.353756 -20.080091,19.586857 3.282651,0.449461 6.795351,-0.175989 6.712971,0.933755 -0.46525,6.267828 1.16149,23.777578 -1.07878,24.107588 -4.520216,0.66586 -6.008509,-0.46347 -7.044375,-1.28451 -6.817932,-6.02049 -11.117752,-15.336963 -11.117752,-25.147711 0,-18.146499 14.710647,-32.857143 32.857147,-32.857143 18.1465,0 32.85714,14.710644 32.85714,32.857143 z"
+       id="path2985"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscccccscsssc"
+       inkscape:export-filename="/home/bambiraptor/Documents/Nörd/web/local_minimum/static/img/m_ico_home.png"
+       inkscape:export-xdpi="48.830002"
+       inkscape:export-ydpi="48.830002" />
+    <path
+       sodipodi:nodetypes="ccssssssssssscsssc"
+       inkscape:connector-curvature="0"
+       id="path2992"
+       d="m 58.241998,88.329007 c 0,10.380294 -4.81355,19.126323 -12.33027,25.147713 -2.39097,0.90858 -2.40535,1.84429 -7.04438,1.55772 -0.59832,-0.037 -5.346319,-0.0264 -7.04437,-0.045 -0.464434,-0.005 7.982854,-8.68149 5.5721,-12.10938 -1.741273,-2.47595 -9.112045,-5.894571 -5.175981,-7.000684 13.702749,-3.850748 8.299212,-16.071543 4.14472,-21.695555 -4.05384,-5.487756 -17.700148,-10.029035 -18.403749,-0.717025 -0.219703,2.907722 5.205905,5.535067 8.283266,11.234745 1.702672,3.153575 -6.704994,3.077385 -11.71815,11.53691 -2.109148,3.559114 22.067099,8.679839 1.719232,9.166719 -4.196862,0.10042 1.846118,9.42548 1.489802,9.42188 -2.632131,-0.0266 -6.01456,-0.0971 -7.04438,-0.0658 -4.5668904,0.13871 -6.0085094,-0.46347 -7.0443754,-1.28451 -6.817932,-6.02049 -11.117752,-15.336965 -11.117752,-25.147713 0,-18.146499 14.710647,-32.857143 32.8571474,-32.857143 18.1465,0 32.85714,14.710644 32.85714,32.857143 z"
+       style="fill:none;stroke:#effab4;stroke-width:8;stroke-opacity:1;opacity:0.8"
+       inkscape:export-filename="/home/bambiraptor/Documents/Nörd/web/local_minimum/static/img/m_ico_ui.png"
+       inkscape:export-xdpi="48.830002"
+       inkscape:export-ydpi="48.830002" />
+    <path
+       style="fill:none;stroke:#effab4;stroke-width:8;stroke-opacity:1;opacity:0.8"
+       d="m 240.242,88.329007 c 0,10.380294 -4.81355,19.126323 -12.33027,25.147713 -2.39097,0.90858 -2.40535,1.84429 -7.04438,1.55772 -0.59832,-0.037 -7.34632,-0.0264 -9.04437,-0.045 -1.24128,-0.0136 1.33308,-26.0293 0.0415,-26.0473 -1.25062,-0.0174 -4.37558,-0.037 -5.08585,-0.0591 -0.33369,-0.0104 -1.72496,-0.0203 -3.22991,-0.0298 -1.44533,-0.009 -0.99552,25.9821 -1.81447,25.9738 -2.63213,-0.0266 -8.01456,-0.0971 -9.04438,-0.0658 -4.56689,0.13871 -6.00851,-0.46347 -7.04438,-1.28451 -6.81793,-6.02049 -11.11775,-15.336965 -11.11775,-25.147713 0,-18.146499 14.71065,-32.857143 32.85715,-32.857143 18.1465,0 32.85714,14.710644 32.85714,32.857133 z"
+       id="path2994"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="scssssssscsss"
+       inkscape:export-filename="/home/bambiraptor/Documents/Nörd/web/local_minimum/static/img/m_ico_about.png"
+       inkscape:export-xdpi="48.830002"
+       inkscape:export-ydpi="48.830002" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#effab4;stroke-width:8;stroke-opacity:1;opacity:0.8"
+       id="path2996"
+       sodipodi:cx="208.65964"
+       sodipodi:cy="72.387939"
+       sodipodi:rx="4.1037445"
+       sodipodi:ry="3.7880721"
+       d="m 212.76338,72.387939 a 4.1037445,3.7880721 0 1 1 -8.20749,0 4.1037445,3.7880721 0 1 1 8.20749,0 z"
+       transform="translate(-1.0101525,1.4949237)" />
+    <path
+       style="fill:none;stroke:#effab4;stroke-width:8;stroke-opacity:1;opacity:0.8"
+       d="m 326.242,88.329007 c 0,10.380294 -4.81355,19.126323 -12.33027,25.147713 -2.39097,0.90858 -2.40535,1.84429 -7.04438,1.55772 -0.59832,-0.037 -7.24374,-18.358592 -7.04437,-20.045 0.19137,-1.618753 3.43807,-5.340387 3.42043,-9.2493 -0.0275,-6.100288 -4.64652,-8.879846 -10.46481,-8.85709 -7.06484,0.02763 -10.56447,4.047123 -10.50417,8.62134 0.0524,3.974646 3.29984,7.187212 3.45979,9.32266 0.19661,2.624912 -6.01456,19.9029 -7.04438,19.9342 -4.56689,0.13871 -6.00851,-0.46347 -7.04438,-1.28451 -6.81793,-6.02049 -11.11775,-15.336965 -11.11775,-25.147713 0,-18.146499 14.71065,-32.857143 32.85715,-32.857143 18.1465,0 32.85714,14.710644 32.85714,32.857143 z"
+       id="path2998"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccssssssscsssc"
+       inkscape:export-filename="/home/bambiraptor/Documents/Nörd/web/local_minimum/static/img/m_ico_games.png"
+       inkscape:export-xdpi="48.830002"
+       inkscape:export-ydpi="48.830002" />
+  </g>
+</svg>
