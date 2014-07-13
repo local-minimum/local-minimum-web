@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<meta charset="utf-8">
+
+	{{ template "partials/meta.html" . }}
+
+	<base href="{{ .Site.BaseUrl }}">
+    <title> {{ .Title }} : Local Minimum @ unkownincubator.com</title>
+
+	<link rel="canonical" href="{{ .Permalink }}">
+
+    {{ if .RSSlink }}<link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Title }}" />{{ end }}
+
+	{{ template "partials/head_includes.html" . }}
+
+</head>
+<body lang='en'>
