@@ -1,8 +1,7 @@
 ---
-baseurl: "http://www.unknownincubator.com/local_minimum/"
+baseurl: "http://local-minimum.unknownincubator.com/"
 languageCode: "en-us"
 title: "Local Minimum"
-canonifyurls: true
 indexes:
     series: "series"
     language: "languages"
