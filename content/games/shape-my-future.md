@@ -6,7 +6,7 @@ series = ["Impossible Games"]
 stage = "Release"
 title = "Shape My Future"
 tools = ["PuzzleScript"]
-date = 2014
+date = 2014-07-13T08:02:19Z
 +++
 The first chapter in the series of games that cannot be completed, won or what
 have you.

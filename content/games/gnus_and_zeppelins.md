@@ -1,7 +1,6 @@
 +++
 draft = true
 title = "Gnus and Zeppelins"
-date = 2011
 languages = ["python"]
 tools = ["inkscape", "GIMP"]
 series = ["Scientifically Fun"]
@@ -9,6 +8,7 @@ project_url = [
 "http://gitorious.org/gnus-and-zeppelins", "Source"
 ]
 stage = "Prototype"
+date = 2014-07-13T10:37:01Z
 +++
 
 You are an evil scientist herding gnus back to your research lab to do evil
