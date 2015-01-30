@@ -10,10 +10,10 @@ Stage of development
 --------------------
 
 Prototyping content generation layouts
-while learning Hugo, so plase be kind.
+while learning Hugo, so please be kind.
 
 Issues
 ------
 
 __No content__:
-  Currently all content execpt for that produced by the templates themselves is gone.
+  Currently all content except for that produced by the templates themselves is gone.
